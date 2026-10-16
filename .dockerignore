@@ -1,0 +1,7 @@
+.git
+.gitignore
+.idea
+bin
+*.md
+.env
+cmd/auction/.env

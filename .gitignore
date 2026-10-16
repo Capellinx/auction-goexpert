@@ -1,0 +1,7 @@
+/bin/
+*.exe
+*.out
+.DS_Store
+.env
+cmd/auction/.env
+.idea/
